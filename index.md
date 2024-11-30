@@ -1,2 +1,6 @@
 # Hey Hola
-![Image of Booze](https://finespiritsretail.com/wp-content/uploads/2021/07/256.jpg)
+
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
